@@ -8,10 +8,10 @@
 .tarea-input {
   width: 350px;
   font-size: 18px;
-  background-color: white;
+  background-color: #ebedee;
   padding: 14px 32px 14px 16px;
   border-radius: 4px 0 0 4px;
-  border: 2px solid #00471b;
+  border: 2px solid #5492ff;
   outline: none;
 }
 
@@ -23,7 +23,7 @@
   border-radius: 0 4px 4px 0;
   cursor: pointer;
   outline: none;
-  background: #00471b;
+  background: #5492ff;
   color: white;
   text-transform: capitalize;
 }
