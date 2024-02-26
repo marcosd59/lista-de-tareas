@@ -1,7 +1,7 @@
 .tarea-contenedor {
   width: 500px;
   height: 56px;
-  background-color: #1b1b32;
+  background-color: #e0f7fa;
   margin: 5px 0;
   padding: 8px 15px 8px 20px;
   border-radius: 7px;
@@ -13,15 +13,15 @@
 }
 
 .tarea-contenedor:nth-child(3n + 1) {
-  background-color: #1b1b32;
+  background-color: #ff6958;
 }
 
 .tarea-contenedor:nth-child(3n + 2) {
-  background-color: #2a2a40;
+  background-color: #ff7f71;
 }
 
 .tarea-contenedor:nth-child(3n + 3) {
-  background-color: #3b3b4f;
+  background-color: #ff9387;
 }
 
 .tarea-texto {
