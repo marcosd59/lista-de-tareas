@@ -16,9 +16,17 @@ Esta es una aplicación de lista de tareas creada con React, que permite a los u
 
 ## Capturas de pantalla
 
-![Pagina Principal](./src/screenshots/Captura%20de%20pantalla%202024-02-25%20224412.png)
+### Página principal
 
-![Tareas agregadas](./src/screenshots/Captura%20de%20pantalla%202024-02-25%20224523.png)
+![Página principal](./src/screenshots/Página%20principal.png)
+
+### Agregar las tareas
+
+![Agregar las tareas](./src/screenshots/Agregar%20las%20tareas.png)
+
+### Completar las tareas
+
+![Completar las tareas](./src/screenshots/Completar%20las%20tareas.png)
 
 ## Comenzando
 
